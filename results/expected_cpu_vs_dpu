@@ -1,0 +1,4 @@
+Total Latency          139.82 ms      ~50 ms          2.8× faster
+CNN Inference Time     131.70 ms      ~30 ms          4.3× faster
+FPS                    7.15 FPS       ~20 FPS         2.8× improvement
+Precision (mAP@0.5)    0.42           0.40 (INT8)     ~4–5% drop
