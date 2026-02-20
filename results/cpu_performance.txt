@@ -1,0 +1,7 @@
+Frames Processed: 235
+Average Capture Time: 6.40 ms
+Average Preprocess Time: 0.05 ms
+Average Inference Time: 131.70 ms
+Average Postprocess Time: 1.68 ms
+Average Total Latency: 139.82 ms
+Average FPS: 7.15
