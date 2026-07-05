@@ -14,4 +14,5 @@ CPU vs DPU performance evaluation
 
 APPLICATION:
 
+
 Smart city monitoring, public safety systems, transportation hubs, and crowd management solutions.
